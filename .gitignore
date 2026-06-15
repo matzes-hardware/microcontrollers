@@ -2,3 +2,5 @@
 # Packed
 *.zip
 
+# IDE
+.cursor
